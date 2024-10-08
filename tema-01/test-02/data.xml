@@ -1,0 +1,212 @@
+<cuestionarios>
+    <cuestionario>
+        <titulo>La Psicobiología:</titulo>
+        <opciones>
+            <opcion id="a">Se enmarca dentro del paradigma E-R</opcion>
+            <opcion id="b">Es una ciencia formal y abstracta</opcion>
+            <opcion id="c">No se interesa por los procesos mentales</opcion>
+            <opcion id="d">Considera que los procesos psicológicos son resultado de la actividad de un sistema biológico</opcion>
+        </opciones>
+        <correcta>d</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>¿Cómo considera la Psicobiología los procesos psicológicos?</titulo>
+        <opciones>
+            <opcion id="a">Como independientes del sistema biológico</opcion>
+            <opcion id="b">Como resultado de la selección natural</opcion>
+            <opcion id="c">Como parte de un paradigma E-R</opcion>
+            <opcion id="d">Como hechos no verificables</opcion>
+        </opciones>
+        <correcta>b</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>¿En qué paradigma se enmarca la Psicobiología?</titulo>
+        <opciones>
+            <opcion id="a">Paradigma E-R</opcion>
+            <opcion id="b">Paradigma formal</opcion>
+            <opcion id="c">Paradigma E-O-R</opcion>
+            <opcion id="d">Paradigma de las ciencias abstractas</opcion>
+        </opciones>
+        <correcta>c</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>Según la Psicobiología, ¿qué se sitúa entre el estímulo (E) y la respuesta (R)?</titulo>
+        <opciones>
+            <opcion id="a">Una "caja negra" que no se puede observar</opcion>
+            <opcion id="b">El organismo como un mero receptáculo</opcion>
+            <opcion id="c">Un sistema nervioso que procesa la información</opcion>
+            <opcion id="d">Un conjunto de variables no observables</opcion>
+        </opciones>
+        <correcta>c</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>¿Cómo define la Psicobiología los procesos mentales?</titulo>
+        <opciones>
+            <opcion id="a">Como hechos subjetivos y no verificables</opcion>
+            <opcion id="b">Como fenómenos no cuantificables</opcion>
+            <opcion id="c">Como hechos objetivos y verificables</opcion>
+            <opcion id="d">Como procesos abstractos sin relación con el organismo</opcion>
+        </opciones>
+        <correcta>c</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>¿Qué tipo de ciencia es la Psicobiología según el texto?</titulo>
+        <opciones>
+            <opcion id="a">Formal y abstracta</opcion>
+            <opcion id="b">Empírica</opcion>
+            <opcion id="c">Matemática</opcion>
+            <opcion id="d">Filosófica</opcion>
+        </opciones>
+        <correcta>b</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>¿Qué diferencia existe entre el paradigma E-R y el E-O-R en relación con el organismo?</titulo>
+        <opciones>
+            <opcion id="a">En el E-R el organismo no tiene un papel significativo</opcion>
+            <opcion id="b">En el E-O-R el organismo es solo un receptáculo pasivo</opcion>
+            <opcion id="c">En el E-O-R el sistema nervioso procesa la información</opcion>
+            <opcion id="d">En el E-R se incluye un procesamiento de la información</opcion>
+        </opciones>
+        <correcta>c</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>¿Por qué se considera que la Psicobiología no proporciona un conocimiento en términos absolutos?</titulo>
+        <opciones>
+            <opcion id="a">Porque no utiliza la experimentación</opcion>
+            <opcion id="b">Porque se basa en la probabilidad y no en certezas absolutas</opcion>
+            <opcion id="c">Porque solo se enfoca en procesos mentales no verificables</opcion>
+            <opcion id="d">Porque estudia fenómenos abstractos</opcion>
+        </opciones>
+        <correcta>b</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>¿Cuál de las siguientes afirmaciones sobre la Psicobiología es correcta?</titulo>
+        <opciones>
+            <opcion id="a">No se interesa por los procesos mentales</opcion>
+            <opcion id="b">Considera que los procesos mentales están ligados al organismo</opcion>
+            <opcion id="c">Es una ciencia puramente formal y abstracta</opcion>
+            <opcion id="d">Se basa en el paradigma E-R de los conductistas</opcion>
+        </opciones>
+        <correcta>b</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>¿Qué consideran los conductistas en el paradigma E-R?</titulo>
+        <opciones>
+            <opcion id="a">Que el organismo es un procesador activo de información</opcion>
+            <opcion id="b">Que entre el estímulo y la respuesta se encuentra una "caja negra"</opcion>
+            <opcion id="c">Que la respuesta depende únicamente de procesos mentales</opcion>
+            <opcion id="d">Que los procesos mentales son irrelevantes</opcion>
+        </opciones>
+        <correcta>b</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>¿Cuál es el enfoque principal de la Psicobiología en el estudio del comportamiento humano?</titulo>
+        <opciones>
+            <opcion id="a">Estudiar el comportamiento desde una perspectiva no verificable</opcion>
+            <opcion id="b">Explicar el comportamiento en términos de la actividad neural</opcion>
+            <opcion id="c">Considerar que los procesos mentales no tienen relación con el sistema biológico</opcion>
+            <opcion id="d">Asumir que los estímulos y las respuestas no están vinculados</opcion>
+        </opciones>
+        <correcta>b</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>¿Cuál de las siguientes características no pertenece a la Psicobiología?</titulo>
+        <opciones>
+            <opcion id="a">Estudiar los procesos psicológicos como resultado de la actividad biológica</opcion>
+            <opcion id="b">Enfocarse en la mente como parte del organismo</opcion>
+            <opcion id="c">Considerar los procesos mentales como abstractos e inverificables</opcion>
+            <opcion id="d">Trabajar dentro de un paradigma E-O-R</opcion>
+        </opciones>
+        <correcta>c</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>¿Qué diferencia existe entre una ciencia formal y la Psicobiología?</titulo>
+        <opciones>
+            <opcion id="a">Las ciencias formales no utilizan datos empíricos</opcion>
+            <opcion id="b">La Psicobiología ofrece conocimiento en términos absolutos</opcion>
+            <opcion id="c">Las ciencias formales se basan en términos de probabilidad</opcion>
+            <opcion id="d">La Psicobiología proporciona conocimiento relativo y basado en probabilidad</opcion>
+        </opciones>
+        <correcta>d</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>¿Cómo influye la selección natural en la Psicobiología?</titulo>
+        <opciones>
+            <opcion id="a">La selección natural no tiene relación con los procesos mentales</opcion>
+            <opcion id="b">La selección natural determina la actividad neural y, por tanto, los procesos psicológicos</opcion>
+            <opcion id="c">La selección natural solo afecta a las conductas observables</opcion>
+            <opcion id="d">La selección natural influye en la mente, pero no en el organismo</opcion>
+        </opciones>
+        <correcta>b</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>¿Cuál es una característica clave del paradigma E-O-R en la Psicobiología?</titulo>
+        <opciones>
+            <opcion id="a">El organismo actúa como un mero receptor de estímulos</opcion>
+            <opcion id="b">El sistema nervioso procesa la información entre estímulo y respuesta</opcion>
+            <opcion id="c">Los estímulos no afectan la respuesta</opcion>
+            <opcion id="d">Se enfoca solo en variables no observables</opcion>
+        </opciones>
+        <correcta>b</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>¿Qué sugiere la Psicobiología sobre la relación entre mente y organismo?</titulo>
+        <opciones>
+            <opcion id="a">Que la mente es independiente del organismo</opcion>
+            <opcion id="b">Que la mente es un producto de la actividad neural del organismo</opcion>
+            <opcion id="c">Que la mente no tiene ninguna base biológica</opcion>
+            <opcion id="d">Que la mente está separada del proceso evolutivo</opcion>
+        </opciones>
+        <correcta>b</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>¿Por qué la Psicobiología no se considera parte de las ciencias formales?</titulo>
+        <opciones>
+            <opcion id="a">Porque no proporciona un conocimiento abstracto</opcion>
+            <opcion id="b">Porque se basa en hechos no verificables</opcion>
+            <opcion id="c">Porque no utiliza experimentación</opcion>
+            <opcion id="d">Porque es una ciencia empírica y estudia fenómenos en términos relativos</opcion>
+        </opciones>
+        <correcta>d</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>¿Qué papel juegan los procesos mentales en la Psicobiología?</titulo>
+        <opciones>
+            <opcion id="a">Son irrelevantes para el comportamiento humano</opcion>
+            <opcion id="b">Son productos abstractos no relacionados con el organismo</opcion>
+            <opcion id="c">Son hechos objetivos y cuantificables, resultado de la actividad biológica</opcion>
+            <opcion id="d">No pueden ser medidos científicamente</opcion>
+        </opciones>
+        <correcta>c</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>¿Qué perspectiva adopta la Psicobiología con respecto al estudio de la conducta humana?</titulo>
+        <opciones>
+            <opcion id="a">La conducta es independiente de la actividad biológica</opcion>
+            <opcion id="b">La conducta y los procesos mentales están determinados por el sistema nervioso</opcion>
+            <opcion id="c">La conducta solo puede explicarse en términos no observables</opcion>
+            <opcion id="d">La conducta no está influenciada por la selección natural</opcion>
+        </opciones>
+        <correcta>b</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>¿Cuál de los siguientes elementos NO es parte del paradigma E-O-R en Psicobiología?</titulo>
+        <opciones>
+            <opcion id="a">Estímulo</opcion>
+            <opcion id="b">Respuesta</opcion>
+            <opcion id="c">Sistema nervioso</opcion>
+            <opcion id="d">Caja negra</opcion>
+        </opciones>
+        <correcta>d</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>¿Qué enfoque utiliza la Psicobiología para estudiar los procesos psicológicos?</titulo>
+        <opciones>
+            <opcion id="a">Un enfoque formal y matemático</opcion>
+            <opcion id="b">Un enfoque empírico basado en la probabilidad</opcion>
+            <opcion id="c">Un enfoque puramente conductual</opcion>
+            <opcion id="d">Un enfoque abstracto sin base biológica</opcion>
+        </opciones>
+        <correcta>b</correcta>
+    </cuestionario>
+</cuestionarios>
