@@ -1,0 +1,212 @@
+<cuestionarios>
+    <cuestionario>
+        <titulo>Diversas especies de mamíferos y reptiles muestran alteraciones de su conducta sexual adulta cuando son expuestos a determinadas sustancias presentes en el medio ambiente (entre ellas, algunos insecticidas) durante las primeras etapas de desarrollo postnatal. Estas alteraciones conductuales:</titulo>
+        <opciones>
+            <opcion id="a">Se deben a la influencia de factores epigenéticos</opcion>
+            <opcion id="b">Vienen determinadas por el factor filogenético</opcion>
+            <opcion id="c">Son el objetivo de estudio de la Neuropsicología</opcion>
+            <opcion id="d">Se explican por las denominadas causas lejanas del comportamiento</opcion>
+        </opciones>
+        <correcta>a</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>¿Qué tipo de sustancias se menciona que pueden alterar la conducta sexual adulta de mamíferos y reptiles?</titulo>
+        <opciones>
+            <opcion id="a">Vitaminas</opcion>
+            <opcion id="b">Hormonas naturales</opcion>
+            <opcion id="c">Insecticidas</opcion>
+            <opcion id="d">Antibióticos</opcion>
+        </opciones>
+        <correcta>c</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>Según el texto, ¿en qué etapa del desarrollo son más notables las alteraciones conductuales causadas por insecticidas?</titulo>
+        <opciones>
+            <opcion id="a">En la edad adulta</opcion>
+            <opcion id="b">Durante la adolescencia</opcion>
+            <opcion id="c">En las primeras etapas de desarrollo postnatal</opcion>
+            <opcion id="d">En la etapa embrionaria</opcion>
+        </opciones>
+        <correcta>c</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>¿Qué tipo de factores se consideran responsables de las alteraciones en la conducta debido a la exposición a insecticidas?</titulo>
+        <opciones>
+            <opcion id="a">Factores fisiológicos</opcion>
+            <opcion id="b">Factores epigenéticos</opcion>
+            <opcion id="c">Factores ambientales</opcion>
+            <opcion id="d">Factores psicológicos</opcion>
+        </opciones>
+        <correcta>b</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>¿Cuál de las siguientes afirmaciones es correcta sobre los factores epigenéticos?</titulo>
+        <opciones>
+            <opcion id="a">Son irrelevantes en el desarrollo conductual.</opcion>
+            <opcion id="b">Modulan la expresión de la información genética.</opcion>
+            <opcion id="c">Son siempre permanentes e irreversibles.</opcion>
+            <opcion id="d">Se relacionan únicamente con características físicas.</opcion>
+        </opciones>
+        <correcta>b</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>¿Qué efectos pueden tener los insecticidas en el desarrollo de mamíferos y reptiles según el texto?</titulo>
+        <opciones>
+            <opcion id="a">Alteraciones en la dieta</opcion>
+            <opcion id="b">Modificaciones en el pelaje</opcion>
+            <opcion id="c">Alteraciones en los órganos reproductores y la conducta sexual</opcion>
+            <opcion id="d">Aumento de la longevidad</opcion>
+        </opciones>
+        <correcta>c</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>¿Qué insecticida se menciona como prohibido debido a sus efectos estrogénicos?</titulo>
+        <opciones>
+            <opcion id="a">Nicotina</opcion>
+            <opcion id="b">Dicofol</opcion>
+            <opcion id="c">Aspirina</opcion>
+            <opcion id="d">Penicilina</opcion>
+        </opciones>
+        <correcta>b</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>¿Cuál es una de las opciones incorrectas respecto a las causas de las alteraciones conductuales mencionadas en el texto?</titulo>
+        <opciones>
+            <opcion id="a">Se deben a la influencia de factores epigenéticos.</opcion>
+            <opcion id="b">Vienen determinadas por el factor filogenético.</opcion>
+            <opcion id="c">Son el objetivo de estudio de la Neuropsicología.</opcion>
+            <opcion id="d">Se explican por causas lejanas del comportamiento.</opcion>
+        </opciones>
+        <correcta>c</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>Según el texto, ¿qué se entiende por "causas lejanas del comportamiento"?</titulo>
+        <opciones>
+            <opcion id="a">Factores epigenéticos que afectan el desarrollo</opcion>
+            <opcion id="b">La historia evolutiva de la especie</opcion>
+            <opcion id="c">La influencia del entorno inmediato</opcion>
+            <opcion id="d">El aprendizaje adquirido a través de la experiencia</opcion>
+        </opciones>
+        <correcta>b</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>¿Qué aspecto de la conducta es el principal interés de la Neuropsicología según el texto?</titulo>
+        <opciones>
+            <opcion id="a">Estudiar la genética del comportamiento</opcion>
+            <opcion id="b">Estudiar la relación entre la función cerebral y el comportamiento</opcion>
+            <opcion id="c">Analizar el impacto del medio ambiente en el comportamiento</opcion>
+            <opcion id="d">Investigar el desarrollo evolutivo de las especies</opcion>
+        </opciones>
+        <correcta>b</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>¿Cómo afectan los factores epigenéticos al comportamiento?</titulo>
+        <opciones>
+            <opcion id="a">Cambian permanentemente el ADN</opcion>
+            <opcion id="b">Modulan la expresión genética durante el desarrollo</opcion>
+            <opcion id="c">No tienen efectos medibles en el comportamiento</opcion>
+            <opcion id="d">Actúan solo en la edad adulta</opcion>
+        </opciones>
+        <correcta>b</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>¿Cuál de las siguientes no es una propiedad de los insecticidas mencionados en el texto?</titulo>
+        <opciones>
+            <opcion id="a">Son estrogénicos</opcion>
+            <opcion id="b">Pueden alterar la conducta sexual</opcion>
+            <opcion id="c">Son utilizados en agricultura</opcion>
+            <opcion id="d">Promueven el desarrollo celular</opcion>
+        </opciones>
+        <correcta>d</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>¿Qué ocurre con la reversibilidad de las alteraciones conductuales causadas por los factores epigenéticos?</titulo>
+        <opciones>
+            <opcion id="a">Son siempre reversibles</opcion>
+            <opcion id="b">Son irreversibles</opcion>
+            <opcion id="c">Dependen de la etapa del desarrollo en que actúan</opcion>
+            <opcion id="d">Nunca se pueden observar</opcion>
+        </opciones>
+        <correcta>c</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>¿Qué tipo de estudio no está relacionado con las alteraciones conductuales debido a factores epigenéticos?</titulo>
+        <opciones>
+            <opcion id="a">Estudios sobre la función cerebral</opcion>
+            <opcion id="b">Investigaciones sobre el comportamiento animal</opcion>
+            <opcion id="c">Análisis filogenéticos</opcion>
+            <opcion id="d">Experimentos sobre insecticidas</opcion>
+        </opciones>
+        <correcta>c</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>¿Qué efecto tienen algunos insecticidas en la etapa postnatal temprana?</titulo>
+        <opciones>
+            <opcion id="a">Aumentan la resistencia a enfermedades</opcion>
+            <opcion id="b">Producen alteraciones en la conducta sexual</opcion>
+            <opcion id="c">Mejoran la función cognitiva</opcion>
+            <opcion id="d">Reducen el crecimiento físico</opcion>
+        </opciones>
+        <correcta>b</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>¿Cuál es la relación entre los factores epigenéticos y la genética según el texto?</titulo>
+        <opciones>
+            <opcion id="a">Los factores epigenéticos no afectan la genética</opcion>
+            <opcion id="b">Los factores epigenéticos pueden modificar la expresión genética</opcion>
+            <opcion id="c">La genética es irrelevante en el desarrollo conductual</opcion>
+            <opcion id="d">Los factores epigenéticos son fijos y no se pueden cambiar</opcion>
+        </opciones>
+        <correcta>b</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>¿Qué se considera una causa próxima del comportamiento en el contexto del texto?</titulo>
+        <opciones>
+            <opcion id="a">La historia evolutiva</opcion>
+            <opcion id="b">Los factores epigenéticos</opcion>
+            <opcion id="c">La observación conductual</opcion>
+            <opcion id="d">Las características ambientales</opcion>
+        </opciones>
+        <correcta>b</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>¿Cuál de las siguientes es una consecuencia del uso de insecticidas en el desarrollo de mamíferos y reptiles?</titulo>
+        <opciones>
+            <opcion id="a">Mejora de la adaptación al entorno</opcion>
+            <opcion id="b">Alteraciones en la conducta sexual</opcion>
+            <opcion id="c">Incremento de la fertilidad</opcion>
+            <opcion id="d">Reducción del estrés</opcion>
+        </opciones>
+        <correcta>b</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>Según el texto, los factores epigenéticos afectan:</titulo>
+        <opciones>
+            <opcion id="a">Solo a las características físicas</opcion>
+            <opcion id="b">Solo a las características conductuales</opcion>
+            <opcion id="c">Tanto a características físicas como conductuales</opcion>
+            <opcion id="d">Ninguna característica del organismo</opcion>
+        </opciones>
+        <correcta>c</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>En la investigación sobre el comportamiento animal, ¿qué método se considera adecuado para estudiar el impacto de sustancias en la conducta?</titulo>
+        <opciones>
+            <opcion id="a">Observación casual</opcion>
+            <opcion id="b">Intervenciones experimentales</opcion>
+            <opcion id="c">Métodos descriptivos</opcion>
+            <opcion id="d">Encuestas y entrevistas</opcion>
+        </opciones>
+        <correcta>b</correcta>
+    </cuestionario>
+    <cuestionario>
+        <titulo>¿Qué insecticida se menciona específicamente en el texto como problemático por sus efectos en la conducta sexual?</titulo>
+        <opciones>
+            <opcion id="a">Clorpirifos</opcion>
+            <opcion id="b">DDT</opcion>
+            <opcion id="c">Glifosato</opcion>
+            <opcion id="d">Atrazina</opcion>
+        </opciones>
+        <correcta>b</correcta>
+    </cuestionario>
+</cuestionarios>
