@@ -1,0 +1,273 @@
+[
+    {
+        "titulo": "Tema 1. De conformidad con lo establecido en el artículo 34 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los actos administrativos que dicten las Administraciones Públicas, bien de oficio o a instancia del interesado, se producirán por el órgano competente:",
+        "opciones": [
+            { "id": "a", "texto": "Ajustándose a los requisitos y al procedimiento establecido." },
+            { "id": "b", "texto": "Ajustándose al procedimiento establecido solamente cuando sea a instancia de parte." },
+            { "id": "c", "texto": "Ajustándose al procedimiento establecido solamente cuando sea de oficio." }
+        ],
+        "correcta": "a"
+    },
+    {
+        "titulo": "Tema 1. De conformidad con el artículo 35.1 Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas, serán motivados, con sucinta referencia de hechos y fundamentos de derecho:",
+        "opciones": [
+            { "id": "a", "texto": "Los acuerdos de aplicación de la tramitación de emergencia." },
+            { "id": "b", "texto": "Los actos que resuelvan procedimientos de revisión de oficio de disposiciones o actos administrativos, recursos administrativos y procedimientos de arbitraje y los que declaren su inadmisión." },
+            { "id": "c", "texto": "Los actos que admitan pruebas propuestas por los interesados." }
+        ],
+        "correcta": "b"
+    },
+    {
+        "titulo": "Tema 1. En virtud de lo establecido en el artículo 36.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los actos administrativos se producirán, literalmente:",
+        "opciones": [
+            { "id": "a", "texto": "Por escrito a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia." },
+            { "id": "b", "texto": "Por escrito, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia." },
+            { "id": "c", "texto": "Por escrito a través de medios telemáticos, a menos que su naturaleza exija otra forma más adecuada." }
+        ],
+        "correcta": "a"
+    },
+    {
+        "titulo": "Tema 1. A tenor del artículo 39.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
+        "opciones": [
+            { "id": "a", "texto": "Los actos de las Administraciones Públicas sujetos al Derecho Administrativo se presumirán válidos y producirán efectos desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa." },
+            { "id": "b", "texto": "Los actos de las Administraciones Públicas sujetos al Derecho Administrativo se presumirán válidos y producirán efectos desde la fecha en que se publiquen, salvo que en ellos se disponga otra cosa." },
+            { "id": "c", "texto": "Son válidos solo cuando los confirman los tribunales." }
+        ],
+        "correcta": "a"
+    },
+    {
+        "titulo": "Tema 1. De acuerdo con el artículo 40.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, toda notificación deberá ser cursada:",
+        "opciones": [
+            { "id": "a", "texto": "Dentro del plazo de quince días a partir de la fecha en que el acto haya sido dictado." },
+            { "id": "b", "texto": "Dentro del plazo de diez días a partir de la fecha en que el acto haya sido dictado." },
+            { "id": "c", "texto": "Dentro del plazo de cinco días a partir de la fecha en que el acto haya sido dictado." }
+        ],
+        "correcta": "b"
+    },
+    {
+        "titulo": "Tema 1. De acuerdo con el artículo 41.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿cómo se practicarán las notificaciones?",
+        "opciones": [
+            { "id": "a", "texto": "Preferentemente por escrito y mediante entrega directa y presencial." },
+            { "id": "b", "texto": "Preferentemente por medios electrónicos y, en todo caso, cuando el interesado resulte obligado a recibirlas por esta vía." },
+            { "id": "c", "texto": "Únicamente por medios electrónicos." }
+        ],
+        "correcta": "b"
+    },
+    {
+        "titulo": "Tema 1. A tenor del artículo 42.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cuando la notificación se practique en el domicilio del interesado, de no hallarse presente éste en el momento de entregarse la notificación, podrá hacerse cargo de la misma cualquier persona mayor de:",
+        "opciones": [
+            { "id": "a", "texto": "14 años que se encuentre en el domicilio y haga constar su identidad." },
+            { "id": "b", "texto": "16 años que se encuentre en el domicilio y haga constar su identidad." },
+            { "id": "c", "texto": "18 años que se encuentre en el domicilio y haga constar su identidad." }
+        ],
+        "correcta": "a"
+    },
+    {
+        "titulo": "Tema 1. De conformidad con lo establecido en el artículo 45.1 de la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los actos administrativos serán objeto de publicación:",
+        "opciones": [
+            { "id": "a", "texto": "Cuando así lo aconsejen razones de interés particular." },
+            { "id": "b", "texto": "Cuando así lo establezcan las normas reguladoras de cada procedimiento o cuando lo aconsejen razones de interés público apreciadas por el órgano competente." },
+            { "id": "c", "texto": "Cuando lo aconsejen razones de interés público apreciadas por el órgano superior al órgano competente." }
+        ],
+        "correcta": "b"
+    },
+    {
+        "titulo": "Tema 1. De acuerdo con lo dispuesto en el artículo 47.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿Cuál de los siguientes actos administrativos son nulos de pleno derecho?",
+        "opciones": [
+            { "id": "a", "texto": "Los dictados prescindiendo total y absolutamente del procedimiento legalmente establecido o de las normas que contienen las reglas esenciales para la formación de la voluntad de los órganos colegiados." },
+            { "id": "b", "texto": "Los dictados prescindiendo de algún trámite no esencial del procedimiento legalmente establecido o de las normas que contienen las reglas esenciales para la formación de la voluntad de los órganos colegiados." },
+            { "id": "c", "texto": "La realización de actuaciones administrativas fuera del tiempo establecido para ellas, aun cuando la naturaleza del término o plazo no sea esencial." }
+        ],
+        "correcta": "a"
+    },
+    {
+        "titulo": "Tema 1. De acuerdo con lo dispuesto en el artículo 49.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la nulidad o anulabilidad de un acto administrativo:",
+        "opciones": [
+            { "id": "a", "texto": "Implicará la de los sucesivos en el procedimiento, sean éstos independientes o no del primero." },
+            { "id": "b", "texto": "No implicará la de los sucesivos en el procedimiento que sean independientes del primero." },
+            { "id": "c", "texto": "Implicará la de los sucesivos en el procedimiento, aunque sean independientes del primero." }
+        ],
+        "correcta": "b"
+    },
+    {
+        "titulo": "Tema 2. De conformidad con lo establecido en el artículo 3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, tendrán capacidad de obrar ante las Administraciones Públicas:",
+        "opciones": [
+            { "id": "a", "texto": "Las personas físicas o jurídicas que ostenten capacidad de obrar con arreglo a las normas civiles." },
+            { "id": "b", "texto": "Sólo las personas físicas que ostenten capacidad de obrar con arreglo a las normas civiles." },
+            { "id": "c", "texto": "Sólo las personas jurídicas que ostenten capacidad de obrar con arreglo a las normas laborales." }
+        ],
+        "correcta": "a"
+    },
+    {
+        "titulo": "Tema 2. Según el artículo 4.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las asociaciones y organizaciones representativas de intereses económicos y sociales serán titulares, en los términos que la Ley reconozca:",
+        "opciones": [
+            { "id": "a", "texto": "De intereses legítimos directos individuales." },
+            { "id": "b", "texto": "De intereses legítimos colectivos." },
+            { "id": "c", "texto": "De los derechos e intereses, individuales y colectivos." }
+        ],
+        "correcta": "b"
+    },
+    {
+        "titulo": "Tema 2. De conformidad con lo establecido en el artículo 9.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los interesados podrán identificarse electrónicamente ante las Administraciones Públicas a través de los sistemas siguientes:",
+        "opciones": [
+            { "id": "a", "texto": "Sistemas basados en certificados electrónicos cualificados de firma electrónica expedidos por prestadores incluidos en la ‘‘Lista de confianza de prestadores de servicios de certificación’’." },
+            { "id": "b", "texto": "Sistemas basados en cualquier sistema de identificación, excepto certificados cualificados expedidos por prestadores incluidos en la ‘‘Lista de confianza de prestadores de servicios de certificación’’." },
+            { "id": "c", "texto": "Sistemas basados en certificados electrónicos no incluidos en la ‘‘Lista de confianza de prestadores de servicios de certificación’’." }
+        ],
+        "correcta": "a"
+    },
+    {
+        "titulo": "Tema 2. Conforme al artículo 11.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, para realizar cualquier actuación prevista en el procedimiento administrativo, será suficiente con que los interesados acrediten previamente su identidad a través de cualquiera de los medios de identificación previstos en dicha Ley:",
+        "opciones": [
+            { "id": "a", "texto": "Con carácter particular." },
+            { "id": "b", "texto": "Con carácter excepcional." },
+            { "id": "c", "texto": "Con carácter general." }
+        ],
+        "correcta": "c"
+    },
+    {
+        "titulo": "Tema 2. Según el artículo 12.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las Administraciones Públicas deberán garantizar que los interesados pueden relacionarse con la Administración a través de:",
+        "opciones": [
+            { "id": "a", "texto": "Medios portátiles, para lo que pondrán a su disposición los canales de acceso que sean necesarios." },
+            { "id": "b", "texto": "Medios electrónicos, para lo que pondrán a su disposición los canales de acceso que sean necesarios así como los sistemas y aplicaciones que en cada caso se determinen." },
+            { "id": "c", "texto": "Medios electrónicos, para lo cual la administración deberá poner a su disposición los canales de acceso que sean necesarios." }
+        ],
+        "correcta": "b"
+    },
+    {
+        "titulo": "Tema 2. A tenor del artículo 13 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las personas en sus relaciones con las Administraciones Públicas, tienen el derecho al acceso a la información pública, archivos y registros, de acuerdo con lo previsto en :",
+        "opciones": [
+            { "id": "a", "texto": "La Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno y el resto del Ordenamiento Jurídico." },
+            { "id": "b", "texto": "La Ley 19/2015, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno y el resto del Ordenamiento Jurídico." },
+            { "id": "c", "texto": "La Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público." }
+        ],
+        "correcta": "a"
+    },
+    {
+        "titulo": "Tema 2. A tenor del artículo 14.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las Administraciones podrán establecer la obligación de relacionarse con ellas a través de medios electrónicos para determinados procedimientos y para ciertos colectivos de personas físicas que, por razón de su capacidad económica, técnica, dedicación profesional u otros motivos quede acreditado que tienen acceso y disponibilidad de los medios electrónicos necesarios:",
+        "opciones": [
+            { "id": "a", "texto": "Reglamentariamente." },
+            { "id": "b", "texto": "Sólo por ley." },
+            { "id": "c", "texto": "Mediante Decreto Legislativo." }
+        ],
+        "correcta": "a"
+    },
+    {
+        "titulo": "Tema 2. Según el artículo 21.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el plazo máximo en el que debe notificarse la resolución expresa será el fijado por la norma reguladora del correspondiente procedimiento. Este plazo no podrá exceder de:",
+        "opciones": [
+            { "id": "a", "texto": "Tres meses salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea." },
+            { "id": "b", "texto": "Seis meses salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea." },
+            { "id": "c", "texto": "Seis meses salvo que una norma establezca uno mayor o siempre que no venga previsto en el Derecho comunitario." }
+        ],
+        "correcta": "b"
+    },
+    {
+        "titulo": "Tema 2. Según lo dispuesto en el art. 24.2 de la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común, la estimación por silencio administrativo:",
+        "opciones": [
+            { "id": "a", "texto": "No tiene la consideración de acto administrativo." },
+            { "id": "b", "texto": "Tiene la consideración de acto administrativo de trámite." },
+            { "id": "c", "texto": "Tiene la consideración de acto administrativo finalizador del procedimiento." }
+        ],
+        "correcta": "c"
+    },
+    {
+        "titulo": "Tema 2. Con relación al cómputo de plazos y a tenor del artículo 30.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, siempre que por Ley o en el Derecho de la Unión Europea no se exprese otro cómputo, cuando los plazos se señalen por días, se entiende que éstos son:",
+        "opciones": [
+            { "id": "a", "texto": "Días hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos." },
+            { "id": "b", "texto": "Días naturales, excluyéndose del cómputo los sábados, los domingos y los declarados festivos." },
+            { "id": "c", "texto": "Días hábiles, incluyéndose los sábados y los declarados festivos por la Comunidad Autónoma de Canarias." }
+        ],
+        "correcta": "a"
+    },
+    {
+        "titulo": "Tema 3. De conformidad con lo establecido en el artículo 34 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los actos administrativos que dicten las Administraciones Públicas, bien de oficio o a instancia del interesado, se producirán por el órgano competente:",
+        "opciones": [
+            { "id": "a", "texto": "Ajustándose a los requisitos y al procedimiento establecido." },
+            { "id": "b", "texto": "Ajustándose al procedimiento establecido solamente cuando sea a instancia de parte." },
+            { "id": "c", "texto": "Ajustándose al procedimiento establecido solamente cuando sea de oficio." }
+        ],
+        "correcta": "a"
+    },
+    {
+        "titulo": "Tema 3. En virtud de lo establecido en el artículo 55.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
+        "opciones": [
+            { "id": "a", "texto": "Durante la tramitación del procedimiento, el órgano competente podrá abrir un período de información o actuaciones previas con el fin de conocer las circunstancias del caso concreto." },
+            { "id": "b", "texto": "En ningún caso, el órgano competente podrá abrir un período de información o actuaciones previas con el fin de conocer las circunstancias del caso concreto y la conveniencia o no de iniciar el procedimiento." },
+            { "id": "c", "texto": "Con anterioridad al inicio del procedimiento, el órgano competente podrá abrir un período de información o actuaciones previas con el fin de conocer las circunstancias del caso concreto y la conveniencia o no de iniciar el procedimiento." }
+        ],
+        "correcta": "c"
+    },
+    {
+        "titulo": "Tema 3. Según el artículo 68.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, si la solicitud de iniciación no reúne los requisitos que señala el artículo 66, y, en su caso, los que señala el artículo 67 u otros exigidos por la legislación específica aplicable, se requerirá al interesado para que, en un plazo, subsane la falta o acompañe los documentos preceptivos, con indicación de que, si así no lo hiciera, se le tendrá por desistido de su petición, previa resolución que deberá ser dictada en los términos previstos en el artículo 21.",
+        "opciones": [
+            { "id": "a", "texto": "Plazo de cinco días." },
+            { "id": "b", "texto": "Plazo de veinte días." },
+            { "id": "c", "texto": "Plazo de diez días." }
+        ],
+        "correcta": "c"
+    },    
+    {
+        "titulo": "Tema 3. De conformidad con el artículo 70 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se entiende por expediente administrativo:",
+        "opciones": [
+            { "id": "a", "texto": "El conjunto ordenado de documentos y anotaciones que no sirven de antecedente y fundamento a la resolución administrativa, así como las propuestas encaminadas a ejecutarla." },
+            { "id": "b", "texto": "El conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla." },
+            { "id": "c", "texto": "En ningún caso, el conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa." }
+        ],
+        "correcta": "b"
+    },
+    {
+        "titulo": "Tema 3. Según el artículo 76 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. ¿En qué momento podrán los interesados aducir alegaciones y aportar documentos y otros elementos de juicio?",
+        "opciones": [
+            { "id": "a", "texto": "En cualquier momento del procedimiento anterior al trámite de audiencia." },
+            { "id": "b", "texto": "En cualquier momento del procedimiento." },
+            { "id": "c", "texto": "En cualquier momento del procedimiento posterior al trámite de audiencia." }
+        ],
+        "correcta": "a"
+    },
+    {
+        "titulo": "Tema 3. De acuerdo con el art. 77.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cuando la Administración no tenga por ciertos los hechos alegados por los interesados o la naturaleza del procedimiento lo exija, el instructor del mismo acordará la apertura de un período de prueba por un plazo:",
+        "opciones": [
+            { "id": "a", "texto": "No superior a treinta días ni inferior a diez." },
+            { "id": "b", "texto": "No superior a dos meses ni inferior a un mes." },
+            { "id": "c", "texto": "No superior a quince días ni inferior a cinco." }
+        ],
+        "correcta": "a"
+    },
+    {
+        "titulo": "Tema 3. Según el artículo 84 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, pondrán fin al procedimiento administrativo:",
+        "opciones": [
+            { "id": "a", "texto": "La resolución, el desistimiento, la renuncia al derecho en que se funde la solicitud, cuando tal renuncia no esté prohibida por el ordenamiento jurídico, y la declaración de caducidad." },
+            { "id": "b", "texto": "En ningún caso, producirá la terminación del procedimiento la imposibilidad material de continuarlo por causas sobrevenidas." },
+            { "id": "c", "texto": "En su todo, la renuncia al derecho en que se funde la solicitud, cuando tal renuncia esté prohibida por el ordenamiento jurídico." }
+        ],
+        "correcta": "a"
+    },
+    {
+        "titulo": "Tema 3. Según el artículo 91.2 de Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en los procedimientos de responsabilidad patrimonial, será necesario que la resolución se pronuncie:",
+        "opciones": [
+            { "id": "a", "texto": "Sobre la existencia o no de la relación de causalidad entre el funcionamiento del servicio público y la lesión producida y, en su caso, sobre la valoración del daño causado, la cuantía y el modo de la indemnización." },
+            { "id": "b", "texto": "En ningún caso, sobre la existencia de la relación de causalidad entre el funcionamiento del servicio público y la lesión producida y, en su caso, sobre la valoración del daño causado, la cuantía y el modo de la indemnización." },
+            { "id": "c", "texto": "Sobre el funcionamiento del servicio público y el mantenimiento del mismo, así como sobre la gravedad de la lesión producida al interesado." }
+        ],
+        "correcta": "a"
+    },
+    {
+        "titulo": "Tema 3. A tenor del artículo 107.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la declaración de lesividad no podrá adoptarse:",
+        "opciones": [
+            { "id": "a", "texto": "Una vez transcurridos cinco años desde que se dictó el acto administrativo y exigirá la previa audiencia de cuantos aparezcan como interesados en el mismo." },
+            { "id": "b", "texto": "Una vez transcurridos tres años desde que se dictó el acto administrativo y exigirá la comparecencia de los interesados en el mismo." },
+            { "id": "c", "texto": "Una vez transcurridos cuatro años desde que se dictó el acto administrativo y exigirá la previa audiencia de cuantos aparezcan como interesados en el mismo." }
+        ],
+        "correcta": "c"
+    },
+    {
+        "titulo": "Tema 3. Según del artículo 112.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, contra las resoluciones y los actos de trámite, si estos últimos deciden directa o indirectamente el fondo del asunto, determinan la imposibilidad de continuar el procedimiento, producen indefensión o perjuicio irreparable a derechos e intereses legítimos, podrán interponerse por los interesados los, que cabrá fundar en cualquiera de los motivos de nulidad o anulabilidad previstos en los artículos 47 y 48 de esta Ley.",
+        "opciones": [
+            { "id": "a", "texto": "Recursos de alzada y potestativo de reposición." },
+            { "id": "b", "texto": "Recurso extraordinario de revisión." },
+            { "id": "c", "texto": "Recurso contencioso administrativo." }
+        ],
+        "correcta": "a"
+    }
+    
+]
