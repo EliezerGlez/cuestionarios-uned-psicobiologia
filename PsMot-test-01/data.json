@@ -1,673 +1,506 @@
 [
     {
-        "titulo": "Los cuatro principales niveles de análisis en el estudio de la motivación son los niveles fisiológico, individual, social y…:",
+        "titulo": "En general, los resultados de las investigaciones sobre la relación entre activación y rendimiento sugieren que cuando aumenta la activación también lo hace la reactividad fisiológica y la actividad…:",
         "opciones": [
-            { "id": "a", "texto": "filosófico" },
-            { "id": "b", "texto": "mental" },
-            { "id": "c", "texto": "experimental" }
+            { "id": "a", "texto": "motora" },
+            { "id": "b", "texto": "cognitiva" },
+            { "id": "c", "texto": "psicológica" }
         ],
         "correcta": "a"
     },
     {
-        "titulo": "La principal diferencia que hay entre la psicología del sentido común y la psicología que realizan los psicólogos está en…:",
+        "titulo": "Para Ferguson, la variabilidad de la motivación se hace evidente por la intensidad en la movilización de la energía y por…:",
         "opciones": [
-            { "id": "a", "texto": "la veracidad de los hechos que se tratan" },
-            { "id": "b", "texto": "la importancia de los hechos que se tratan" },
-            { "id": "c", "texto": "el método que utilizan para indagar los hechos" }
-        ],
-        "correcta": "c"
-    },
-    {
-        "titulo": "¿Qué idea filosófica del siglo XVII defendía que los organismos eran máquinas automáticas, comparables a las máquinas físicas, con tendencias a la acción producidas por poderosas fuerzas internas?:",
-        "opciones": [
-            { "id": "a", "texto": "el funcionalismo" },
-            { "id": "b", "texto": "el materialismo" },
-            { "id": "c", "texto": "el mecanicismo" }
-        ],
-        "correcta": "c"
-    },
-    {
-        "titulo": "¿Qué determinante interno de la motivación hace referencia a los procesos que proceden de la información que recibimos y de la forma en que la procesamos? Los procesos…:",
-        "opciones": [
-            { "id": "a", "texto": "cognitivos" },
-            { "id": "b", "texto": "de aprendizaje" },
-            { "id": "c", "texto": "de crecimiento potencial" }
-        ],
-        "correcta": "a"
-    },
-    {
-        "titulo": "Junto con la necesidad de medición, ¿cuál ha sido otro de los objetivos centrales de los estudios realizados en el marco de la psicología de la motivación?:",
-        "opciones": [
-            { "id": "a", "texto": "la realización de pruebas correlacionales" },
-            { "id": "b", "texto": "el análisis de estudios socioculturales" },
-            { "id": "c", "texto": "la investigación aplicada" }
-        ],
-        "correcta": "c"
-    },
-    {
-        "titulo": "¿Qué enfoque, en el estudio de la motivación, pretende establecer leyes abstractas, generales o universales que permiten explicar la motivación de una manera general para todos los seres vivos? El enfoque…:",
-        "opciones": [
-            { "id": "a", "texto": "ideográfico" },
-            { "id": "b", "texto": "cognitivo" },
-            { "id": "c", "texto": "nomotético" }
-        ],
-        "correcta": "c"
-    },
-    {
-        "titulo": "¿Qué filósofo griego dio mucha importancia a la razón dejando de lado al mundo de los sentidos?:",
-        "opciones": [
-            { "id": "a", "texto": "Platón" },
-            { "id": "b", "texto": "Aristóteles" },
-            { "id": "c", "texto": "Sócrates" }
-        ],
-        "correcta": "a"
-    },
-    {
-        "titulo": "Etimológicamente, la palabra psicología significa ciencia…:",
-        "opciones": [
-            { "id": "a", "texto": "de la mente" },
-            { "id": "b", "texto": "del alma" },
-            { "id": "c", "texto": "de la conducta" }
+            { "id": "a", "texto": "la cantidad de esfuerzo que es necesario realizar para llevar a cabo la acción" },
+            { "id": "b", "texto": "el tipo o calidad de la motivación" },
+            { "id": "c", "texto": "el número de veces que se necesita realizar la acción" }
         ],
         "correcta": "b"
     },
     {
-        "titulo": "¿Cuáles son los tres principales paradigmas de investigación en el estudio de la motivación?:",
+        "titulo": "¿Qué concepto utilizó Cannon (1929) para identificar los cambios y/o respuestas fisiológicas del sistema nervioso autónomo del organismo?:",
         "opciones": [
-            { "id": "a", "texto": "experimental, correlacional y cualitativo" },
-            { "id": "b", "texto": "fisiológico, individual y social" },
-            { "id": "c", "texto": "de laboratorio, de campo y observacional" }
-        ],
-        "correcta": "a"
-    },
-    {
-        "titulo": "Cuando la motivación es descrita como un proceso dinámico transitorio, se denomina…:",
-        "opciones": [
-            { "id": "a", "texto": "estado motivacional" },
-            { "id": "b", "texto": "comportamiento motivado" },
-            { "id": "c", "texto": "rasgo motivacional" }
-        ],
-        "correcta": "a"
-    },
-    {
-        "titulo": "Desde sus inicios, ¿qué ha conllevado en el ámbito de la psicología básica el estudio de la motivación?:",
-        "opciones": [
-            { "id": "a", "texto": "la valoración de los análisis comparativos" },
-            { "id": "b", "texto": "la importancia de los principios filosóficos" },
-            { "id": "c", "texto": "la necesidad de medición" }
+            { "id": "a", "texto": "movilización de energía" },
+            { "id": "b", "texto": "tensión dinamogénica" },
+            { "id": "c", "texto": "activación" }
         ],
         "correcta": "c"
     },
     {
-        "titulo": "¿Qué dos grandes grupos de determinantes intervienen fundamentalmente en la motivación?:",
+        "titulo": "El considerar que la motivación debe entenderse como un flujo permanente de la conducta que puede ser encauzado de muchas y distintas maneras, nos permite indicar que es un proceso…:",
         "opciones": [
-            { "id": "a", "texto": "cognitivos y conductuales" },
-            { "id": "b", "texto": "fisiológicos y conductuales" },
-            { "id": "c", "texto": "internos y externos" }
-        ],
-        "correcta": "c"
-    },
-    {
-        "titulo": "¿Qué tipo de enfoque predomina en las investigaciones sobre el estudio de la motivación en la actualidad?:",
-        "opciones": [
-            { "id": "a", "texto": "el ideográfico" },
-            { "id": "b", "texto": "el mecanicista" },
-            { "id": "c", "texto": "el nomotético" }
-        ],
-        "correcta": "c"
-    },
-    {
-        "titulo": "¿Qué es lo común a las distintas teorías evolucionistas?:",
-        "opciones": [
-            { "id": "a", "texto": "considerar que el desarrollo de la inteligencia humana no es fruto exclusivo de la evolución" },
-            { "id": "b", "texto": "defender que la conducta motivada obedece a las necesidades del organismo" },
-            { "id": "c", "texto": "sostener que se produce la herencia de los caracteres adquiridos" }
+            { "id": "a", "texto": "pasivo y externo" },
+            { "id": "b", "texto": "dinámico e interno" },
+            { "id": "c", "texto": "activo y externo" }
         ],
         "correcta": "b"
     },
     {
-        "titulo": "Los psicólogos intentan descubrir las leyes generales que, de forma ordenada, pudieran explicar la diversidad de…:",
+        "titulo": "¿A qué se refiere el aspecto direccional de la motivación?:",
         "opciones": [
-            { "id": "a", "texto": "sensaciones y pensamientos que se dan en el hombre" },
-            { "id": "b", "texto": "conductas en la actividad del ser humano" },
-            { "id": "c", "texto": "trastornos y enfermedades mentales que se producen en los humanos" }
-        ],
-        "correcta": "b"
-    },
-    {
-        "titulo": "¿Es la motivación un proceso directamente observable?:",
-        "opciones": [
-            { "id": "a", "texto": "sí, porque es un proceso psicológico igual que los demás" },
-            { "id": "b", "texto": "no, porque es un constructo hipotético no observable" },
-            { "id": "c", "texto": "sólo cuando hace referencia a sucesos estimulares y consecuentes de la conducta" }
-        ],
-        "correcta": "b"
-    },
-    {
-        "titulo": "Dentro de los estudios efectuados en el marco de la psicología de la motivación, la identificación y explicación de los distintos motivos…:",
-        "opciones": [
-            { "id": "a", "texto": "ha estado vinculada a estudios socioculturales" },
-            { "id": "b", "texto": "se ha encuadrado en el paradigma conductista" },
-            { "id": "c", "texto": "ha sido una de sus pretensiones iniciales y fundamentales" }
+            { "id": "a", "texto": "al aspecto cuantitativo que presenta la activación" },
+            { "id": "b", "texto": "al aspecto energizante del comportamiento" },
+            { "id": "c", "texto": "al aspecto cualitativo de las acciones y tendencias" }
         ],
         "correcta": "c"
     },
     {
-        "titulo": "¿Cómo se denominan aquellos conocimientos psicológicos que representan al conjunto de los procesos mentales? Procesos…:",
+        "titulo": "Según Palmero, en el proceso de motivación hay dos momentos: el primero, es la toma de decisiones y la elección del objetivo, ¿cuál es el segundo momento?:",
         "opciones": [
-            { "id": "a", "texto": "psicológicos básicos" },
-            { "id": "b", "texto": "conscientes e inconscientes" },
-            { "id": "c", "texto": "externos e internos" }
+            { "id": "a", "texto": "la ocurrencia o aparición del estímulo" },
+            { "id": "b", "texto": "el control del resultado" },
+            { "id": "c", "texto": "la fase de retroalimentación del rendimiento" }
+        ],
+        "correcta": "b"
+    },
+    {
+        "titulo": "¿Con qué ley coincidía la teoría de la activación de Hebb?:",
+        "opciones": [
+            { "id": "a", "texto": "con la ley de Müller" },
+            { "id": "b", "texto": "con la ley de Yerkes-Dodson" },
+            { "id": "c", "texto": "con la ley de Beck" }
+        ],
+        "correcta": "b"
+    },
+    {
+        "titulo": "¿Qué término utilizó Lacey para describir las disociaciones entre medidas fisiológicas y conductuales?:",
+        "opciones": [
+            { "id": "a", "texto": "respuesta estereotipada" },
+            { "id": "b", "texto": "respuesta psicofisiológica disociada" },
+            { "id": "c", "texto": "fraccionamiento direccional de respuestas" }
+        ],
+        "correcta": "c"
+    },
+    {
+        "titulo": "Según Palmero, las dos variables de la dirección que intervienen en la consecución de los objetivos son: el grado de atracción y…:",
+        "opciones": [
+            { "id": "a", "texto": "la expectativa de consecución" },
+            { "id": "b", "texto": "la insistencia en el comportamiento motivado" },
+            { "id": "c", "texto": "la intensidad o vigor de la conducta motivada" }
         ],
         "correcta": "a"
     },
     {
-        "titulo": "¿De qué manera consideró McDougall a los instintos?:",
+        "titulo": "¿De qué depende el nivel de motivación que nos lleva a realizar un comportamiento?:",
         "opciones": [
-            { "id": "a", "texto": "en cuanto a su similitud con las respuestas reflejas" },
-            { "id": "b", "texto": "como fuerzas mecánicas" },
-            { "id": "c", "texto": "fuentes irracionales y apremiantes de conducta" }
+            { "id": "a", "texto": "del momento y de la actividad" },
+            { "id": "b", "texto": "de las condiciones ambientales e innatas" },
+            { "id": "c", "texto": "del grado de dominio de la tarea" }
+        ],
+        "correcta": "a"
+    },
+    {
+        "titulo": "¿Por qué los estímulos que no controlamos conscientemente pueden determinar nuestra conducta?:",
+        "opciones": [
+            { "id": "a", "texto": "porque pueden provocarnos emociones antagónicas" },
+            { "id": "b", "texto": "por los estados motivacionales que nos suscitan" },
+            { "id": "c", "texto": "porque inconscientemente determinan nuestros patrones de acción modal" }
+        ],
+        "correcta": "b"
+    },
+    {
+        "titulo": "¿Qué ley indicaba que el nivel de motivación tiene un punto óptimo entre los valores intermedios de activación, de forma que un nivel excesivamente alto o excesivamente bajo empeora el rendimiento?:",
+        "opciones": [
+            { "id": "a", "texto": "la ley de Müller" },
+            { "id": "b", "texto": "la ley de Thayer" },
+            { "id": "c", "texto": "la ley de Yerkes-Dodson" }
         ],
         "correcta": "c"
     },
     {
-        "titulo": "¿Qué término utilizó William James para referirse a la motivación?:",
+        "titulo": "En general, ¿qué ocurre con la actividad motora cuando aumenta la activación?:",
         "opciones": [
-            { "id": "a", "texto": "impulso" },
-            { "id": "b", "texto": "instinto" },
-            { "id": "c", "texto": "voluntad" }
+            { "id": "a", "texto": "aumenta" },
+            { "id": "b", "texto": "disminuye" },
+            { "id": "c", "texto": "unas veces aumenta y otras disminuye" }
+        ],
+        "correcta": "a"
+    },
+    {
+        "titulo": "Según Palmero, ¿cuándo se inicia la activación en el proceso de motivación?:",
+        "opciones": [
+            { "id": "a", "texto": "en la fase de conducta activa" },
+            { "id": "b", "texto": "en el momento en que el organismo detecta una necesidad" },
+            { "id": "c", "texto": "en la fase de ejecución de las conductas instrumentales" }
+        ],
+        "correcta": "b"
+    },
+    {
+        "titulo": "En psicología, a la característica energizante de la motivación se conoce como…:",
+        "opciones": [
+            { "id": "a", "texto": "motivo" },
+            { "id": "b", "texto": "activación" },
+            { "id": "c", "texto": "dirección" }
+        ],
+        "correcta": "b"
+    },
+    {
+        "titulo": "¿Cuál es el principal determinante interno de la motivación?:",
+        "opciones": [
+            { "id": "a", "texto": "la homeostasis" },
+            { "id": "b", "texto": "la herencia" },
+            { "id": "c", "texto": "los procesos cognitivos" }
+        ],
+        "correcta": "b"
+    },
+    {
+        "titulo": "¿A qué aspecto de la motivación hace referencia el término de activación?:",
+        "opciones": [
+            { "id": "a", "texto": "al energético o de intensidad de la motivación" },
+            { "id": "b", "texto": "al cualitativo o de calidad de la motivación" },
+            { "id": "c", "texto": "al direccional de la motivación" }
+        ],
+        "correcta": "a"
+    },
+    {
+        "titulo": "En general, ¿qué tipo de relación existe entre la activación y la reactividad fisiológica y motora?:",
+        "opciones": [
+            { "id": "a", "texto": "lineal monotónica" },
+            { "id": "b", "texto": "curvilínea monotónica" },
+            { "id": "c", "texto": "escalonada y variable" }
+        ],
+        "correcta": "a"
+    },
+    {
+        "titulo": "Dentro de los estudios sobre la activación, Thayer determinó que estaban implicados dos estados de activación diferentes, distinguiendo entre una activación energética y una activación…:",
+        "opciones": [
+            { "id": "a", "texto": "fisiológica" },
+            { "id": "b", "texto": "cognitiva" },
+            { "id": "c", "texto": "tensa" }
         ],
         "correcta": "c"
     },
     {
-        "titulo": "A la fuerza interna impulsora que activa al organismo y que dirige sus acciones hacia una meta, se le denomina…:",
+        "titulo": "Con respecto a la dirección, ¿cuándo es más fácil que ésta produzca la predicción de la conducta motivada? Cuando el sujeto tiene…:",
         "opciones": [
-            { "id": "a", "texto": "instinto" },
-            { "id": "b", "texto": "incentivo" },
-            { "id": "c", "texto": "motivo" }
+            { "id": "a", "texto": "sólo una alternativa de respuesta" },
+            { "id": "b", "texto": "dos alternativas de respuesta" },
+            { "id": "c", "texto": "muchas alternativas de respuesta" }
+        ],
+        "correcta": "a"
+    },
+    {
+        "titulo": "¿La conducta activada es siempre una conducta manifiesta?:",
+        "opciones": [
+            { "id": "a", "texto": "no, puesto que puede haber conductas activadas que no sean manifiestas" },
+            { "id": "b", "texto": "sí, siempre las conductas activadas son conductas manifiestas" },
+            { "id": "c", "texto": "nunca una conducta activada es una conducta manifiesta" }
+        ],
+        "correcta": "a"
+    },
+    {
+        "titulo": "¿Qué significado tiene una relación lineal monotónica entre la activación y las respuestas fisiológicas y motoras?:",
+        "opciones": [
+            { "id": "a", "texto": "que a mayor motivación, mejor rendimiento" },
+            { "id": "b", "texto": "que se produce una única relación entre motivación y rendimiento" },
+            { "id": "c", "texto": "que existe una relación uniforme aunque superficial entre motivación y rendimiento" }
+        ],
+        "correcta": "a"
+    },
+    {
+        "titulo": "Dentro de las variables de la dirección, ¿a qué hace referencia la expectativa de la consecución del objetivo?:",
+        "opciones": [
+            { "id": "a", "texto": "al análisis de la proximidad subjetiva del objetivo" },
+            { "id": "b", "texto": "al número de respuestas que realiza el sujeto motivado" },
+            { "id": "c", "texto": "al esfuerzo que realiza el sujeto para alcanzar la conducta motivada" }
+        ],
+        "correcta": "a"
+    },
+    {
+        "titulo": "¿Qué dos momentos diferencia Palmero en el proceso de motivación?:",
+        "opciones": [
+            { "id": "a", "texto": "la fase de activación y la fase de dirección" },
+            { "id": "b", "texto": "la toma de decisiones y elección del objetivo, y el control del resultado" },
+            { "id": "c", "texto": "la fase de intención y la fase de dirección" }
+        ],
+        "correcta": "b"
+    },
+    {
+        "titulo": "¿A qué aspecto de la motivación hacemos referencia cuando tratamos el tipo o calidad de la motivación?:",
+        "opciones": [
+            { "id": "a", "texto": "al aspecto direccional de la motivación" },
+            { "id": "b", "texto": "al aspecto energético de la motivación" },
+            { "id": "c", "texto": "al aspecto de intensidad de la motivación" }
+        ],
+        "correcta": "a"
+    },
+    {
+        "titulo": "En el estudio de la motivación, la psicología fisiológica busca conocer…:",
+        "opciones": [
+            { "id": "a", "texto": "qué cambios fisiológicos tienen lugar ante determinadas situaciones estimulares" },
+            { "id": "b", "texto": "qué estructuras median la conducta motivada" },
+            { "id": "c", "texto": "cómo determinadas reacciones fisiológicas preparan al cuerpo para la acción" }
+        ],
+        "correcta": "b"
+    },
+    {
+        "titulo": "Para Ferguson, la motivación es un proceso interno que energiza y dirige las tendencias de acción de los individuos, pero además es un proceso…:",
+        "opciones": [
+            { "id": "a", "texto": "dinámico" },
+            { "id": "b", "texto": "condicionado" },
+            { "id": "c", "texto": "retrospectivo" }
+        ],
+        "correcta": "a"
+    },
+    {
+        "titulo": "¿Qué tipo de activación se relaciona con los sentimientos positivos, en los cuales los sujetos se sienten vigorosos y animados? La activación…:",
+        "opciones": [
+            { "id": "a", "texto": "energética" },
+            { "id": "b", "texto": "tensa" },
+            { "id": "c", "texto": "positiva" }
+        ],
+        "correcta": "a"
+    },
+    {
+        "titulo": "Según Palmero, ¿cómo llamamos al estímulo interno que da comienzo al proceso motivacional?:",
+        "opciones": [
+            { "id": "a", "texto": "objetivo" },
+            { "id": "b", "texto": "deseo" },
+            { "id": "c", "texto": "necesidad" }
         ],
         "correcta": "c"
     },
     {
-        "titulo": "¿Qué tipo de estudios sobre la motivación permiten un mayor control sobre los factores extraños que pueden contaminar las respuestas de los sujetos experimentales? Los estudios…:",
+        "titulo": "Dentro de los determinantes externos de la motivación, ¿qué conductas no explican satisfactoriamente el hedonismo? Las …:",
         "opciones": [
-            { "id": "a", "texto": "introspectivos" },
-            { "id": "b", "texto": "psicoanalíticos" },
-            { "id": "c", "texto": "de laboratorio" }
+            { "id": "a", "texto": "placenteras" },
+            { "id": "b", "texto": "desagradables" },
+            { "id": "c", "texto": "autodestructivas" }
         ],
         "correcta": "c"
     },
     {
-        "titulo": "¿Qué paradigma de investigación en el estudio de la motivación es también conocido como método interpretativo? El paradigma…:",
+        "titulo": "¿Cuál de los determinantes externos de la motivación es el más aceptado por la mayoría de los investigadores?:",
         "opciones": [
-            { "id": "a", "texto": "experimental" },
-            { "id": "b", "texto": "correlacional" },
-            { "id": "c", "texto": "cualitativo" }
+            { "id": "a", "texto": "el aprendizaje" },
+            { "id": "b", "texto": "el hedonismo" },
+            { "id": "c", "texto": "la interacción social" }
+        ],
+        "correcta": "b"
+    },
+    {
+        "titulo": "Para Ferguson, la variabilidad de la motivación se hace evidente por el tipo o calidad de la motivación y por…:",
+        "opciones": [
+            { "id": "a", "texto": "la intensidad en la movilización de la energía" },
+            { "id": "b", "texto": "el aspecto cualitativo de la motivación" },
+            { "id": "c", "texto": "el aspecto direccional de la motivación" }
+        ],
+        "correcta": "a"
+    },
+    {
+        "titulo": "En el estudio de la motivación ¿qué disciplina busca conocer cómo determinadas reacciones fisiológicas posibilitan o preparan al cuerpo para la acción?:",
+        "opciones": [
+            { "id": "a", "texto": "la psicología fisiológica" },
+            { "id": "b", "texto": "la psicofisiología" },
+            { "id": "c", "texto": "la motivación fisiológica" }
+        ],
+        "correcta": "b"
+    },
+    {
+        "titulo": "Para Deckers, dentro del proceso motivacional, ¿qué se debe analizar de las propiedades físicas del objetivo que indujeron a la conducta motivada?:",
+        "opciones": [
+            { "id": "a", "texto": "su duración, su frecuencia y su intensidad" },
+            { "id": "b", "texto": "su cantidad, su calidad o su valor" },
+            { "id": "c", "texto": "su anticipación y su reiteración" }
+        ],
+        "correcta": "b"
+    },
+    {
+        "titulo": "¿Cuál es la postura más extendida entre los investigadores con respecto a la fuente de energía responsable de activar el comportamiento de los individuos?:",
+        "opciones": [
+            { "id": "a", "texto": "que existe una única fuente de energía que actúa a modo general en todos los individuos y en todas las situaciones" },
+            { "id": "b", "texto": "que la fuerza impulsora es específica en cada caso y que cada conducta tiene su propia fuente de energía" },
+            { "id": "c", "texto": "que no existe una fuerza o fuente de energía responsable de activar el comportamiento de los individuos" }
+        ],
+        "correcta": "b"
+    },
+    {
+        "titulo": "Según Deckers, ¿qué aspectos de la conducta instrumental reflejan el nivel de motivación que puede llegar a alcanzar un individuo?:",
+        "opciones": [
+            { "id": "a", "texto": "la novedad, la reiteración y el resultado" },
+            { "id": "b", "texto": "la duración, la frecuencia y la intensidad" },
+            { "id": "c", "texto": "la anticipación y la retroalimentación" }
+        ],
+        "correcta": "b"
+    },
+    {
+        "titulo": "Según Palmero, ¿cómo puede ser el estímulo para que comience el proceso motivacional?:",
+        "opciones": [
+            { "id": "a", "texto": "externo o interno" },
+            { "id": "b", "texto": "visual o auditivo" },
+            { "id": "c", "texto": "elicitante o discriminativo" }
+        ],
+        "correcta": "a"
+    },
+    {
+        "titulo": "Según Cannon, ¿qué rama del sistema nervioso autónomo tenía como principal función la conservación de la energía?:",
+        "opciones": [
+            { "id": "a", "texto": "la rama simpática" },
+            { "id": "b", "texto": "la rama parasimpática" },
+            { "id": "c", "texto": "tanto la rama simpática como la parasimpática" }
+        ],
+        "correcta": "b"
+    },
+    {
+        "titulo": "¿Cuáles son los principales determinantes que influyen sobre los motivos secundarios?:",
+        "opciones": [
+            { "id": "a", "texto": "el hedonismo, la interacción social y el crecimiento personal" },
+            { "id": "b", "texto": "la herencia, la homeostasis y el hedonismo" },
+            { "id": "c", "texto": "el aprendizaje, la interacción social, el crecimiento potencial y los procesos cognitivos" }
         ],
         "correcta": "c"
     },
     {
-        "titulo": "¿En qué nivel de análisis en el estudio de la motivación se mueven las teorías de los psicólogos humanistas? En el nivel…:",
+        "titulo": "El sistema mediante el que actúan los mecanismos autorreguladores homeostáticos cuando existe una desviación en los niveles de los parámetros fisiológicos, se denomina…:",
         "opciones": [
-            { "id": "a", "texto": "filosófico" },
-            { "id": "b", "texto": "individual" },
+            { "id": "a", "texto": "retroalimentación inducida" },
+            { "id": "b", "texto": "feedback negativo" },
+            { "id": "c", "texto": "autocorrección fisiológica" }
+        ],
+        "correcta": "b"
+    },
+    {
+        "titulo": "Para que se produzca inferencia correspondiente tiene que haber una condición previa que es…:",
+        "opciones": [
+            { "id": "a", "texto": "la selección" },
+            { "id": "b", "texto": "la intención" },
+            { "id": "c", "texto": "el ocio" }
+        ],
+        "correcta": "b"
+    },
+    {
+        "titulo": "¿Cuál es el principal determinante externo de la motivación?:",
+        "opciones": [
+            { "id": "a", "texto": "el aprendizaje" },
+            { "id": "b", "texto": "el hedonismo" },
+            { "id": "c", "texto": "la interacción social" }
+        ],
+        "correcta": "a"
+    },
+    {
+        "titulo": "¿Qué característica de la activación se denomina también fuerza o vigor de la conducta motivada?:",
+        "opciones": [
+            { "id": "a", "texto": "la intensidad" },
+            { "id": "b", "texto": "la persistencia" },
+            { "id": "c", "texto": "la conducta manifiesta" }
+        ],
+        "correcta": "a"
+    },
+    {
+        "titulo": "¿Cuáles son las fases del proceso motivacional para Reeve?:",
+        "opciones": [
+            { "id": "a", "texto": "fase de anticipación, fase de activación y dirección y fase de resultado" },
+            { "id": "b", "texto": "fase de anticipación, fase de activación y dirección, fase de conducta activa y de retroalimentación del rendimiento y fase de resultado" },
+            { "id": "c", "texto": "fase de anticipación, fase de conducta activa y fase de rendimiento" }
+        ],
+        "correcta": "b"
+    },
+    {
+        "titulo": "Según Deckers, ¿qué relación existe entre la intensidad de la actividad y el nivel de motivación?:",
+        "opciones": [
+            { "id": "a", "texto": "una relación directa" },
+            { "id": "b", "texto": "una relación inversa" },
+            { "id": "c", "texto": "no existe relación alguna" }
+        ],
+        "correcta": "a"
+    },
+    {
+        "titulo": "¿Qué determinante interno de la motivación atañe específicamente al desencadenamiento de la motivación?:",
+        "opciones": [
+            { "id": "a", "texto": "la homeostasis" },
+            { "id": "b", "texto": "el crecimiento potencial" },
+            { "id": "c", "texto": "los procesos cognitivos" }
+        ],
+        "correcta": "a"
+    },
+    {
+        "titulo": "Lacey señaló que la activación puede manifestarse en tres niveles de actividad: electrocortical, fisiológica y…:",
+        "opciones": [
+            { "id": "a", "texto": "bioquímica" },
+            { "id": "b", "texto": "motora" },
+            { "id": "c", "texto": "cerebral" }
+        ],
+        "correcta": "b"
+    },
+    {
+        "titulo": "Con respecto a la segunda característica de la activación que presentaron Petri y Govern, ¿con qué está relacionada la persistencia o insistencia en el comportamiento?:",
+        "opciones": [
+            { "id": "a", "texto": "con la finalización de la conducta motivada" },
+            { "id": "b", "texto": "con la iniciación de la conducta motivada" },
+            { "id": "c", "texto": "con el mantenimiento de la conducta motivada" }
+        ],
+        "correcta": "c"
+    },
+    {
+        "titulo": "Según Palmero, ¿qué factores comprende el segundo momento en el proceso de motivación?:",
+        "opciones": [
+            { "id": "a", "texto": "la verificación de la congruencia, la atribución de causas y la generalización" },
+            { "id": "b", "texto": "la intención, la activación y la dirección" },
+            { "id": "c", "texto": "la evaluación y valoración, la decisión y elección del objetivo, y la realización de la conducta motivada" }
+        ],
+        "correcta": "a"
+    },
+    {
+        "titulo": "¿Cómo denominaba Hull la secuencia de conductas simples de una actuación hacia un objetivo concreto?:",
+        "opciones": [
+            { "id": "a", "texto": "respuesta discriminativa" },
+            { "id": "b", "texto": "respuesta incondicionada" },
+            { "id": "c", "texto": "respuesta anticipatoria de meta" }
+        ],
+        "correcta": "c"
+    },
+    {
+        "titulo": "¿Qué dos enfoques intentan explicar de distinta manera el determinante de la herencia?:",
+        "opciones": [
+            { "id": "a", "texto": "el conductista y el cognitivo" },
+            { "id": "b", "texto": "el ideográfico y el nomotético" },
+            { "id": "c", "texto": "el instintivo y el fisiológico" }
+        ],
+        "correcta": "c"
+    },
+    {
+        "titulo": "¿Qué término utilizaron los Lacey para describir que cada individuo tiene patrones fisiológicos estables y respuestas conductuales únicas?:",
+        "opciones": [
+            { "id": "a", "texto": "respuesta estereotipada" },
+            { "id": "b", "texto": "respuestas psicofisiológicas disociadas" },
+            { "id": "c", "texto": "fraccionamiento direccional de respuestas" }
+        ],
+        "correcta": "a"
+    },
+    {
+        "titulo": "En relación al supuesto práctico en el que se relacionaba la activación y el rendimiento en un videojuego, ¿qué consecuencia se puede derivar de los resultados obtenidos en esa investigación?:",
+        "opciones": [
+            { "id": "a", "texto": "que a mayor motivación, mejor rendimiento" },
+            { "id": "b", "texto": "que el nivel de motivación tiene un punto óptimo entre los valores intermedios de activación, de forma que un nivel excesivamente alto o excesivamente bajo empeora el rendimiento" },
+            { "id": "c", "texto": "que el nivel óptimo de motivación era más alto para las tareas más fáciles y más bajo para las tareas más difíciles" }
+        ],
+        "correcta": "b"
+    },
+    {
+        "titulo": "¿Cómo actúan las dos ramas del sistema nervioso autónomo, según Cannon?:",
+        "opciones": [
+            { "id": "a", "texto": "cuando se activa una la otra se inhibe" },
+            { "id": "b", "texto": "se inhiben las dos a la vez" },
+            { "id": "c", "texto": "se activan las dos a la vez" }
+        ],
+        "correcta": "a"
+    },
+    {
+        "titulo": "¿Cuál es el denominador común en todas las teorías y consideraciones sobre el proceso motivacional? Que es un proceso…:",
+        "opciones": [
+            { "id": "a", "texto": "aprendido" },
+            { "id": "b", "texto": "dinámico" },
             { "id": "c", "texto": "social" }
         ],
-        "correcta": "a"
-    },
-    {
-        "titulo": "¿Cuál es la principal función del proceso motivacional?:",
-        "opciones": [
-            { "id": "a", "texto": "favorecer el proceso de integración social de los seres humanos" },
-            { "id": "b", "texto": "ayudar a aprender con mayor facilidad todo tipo de conductas" },
-            { "id": "c", "texto": "aumentar la probabilidad de adaptación del organismo a su entorno" }
-        ],
-        "correcta": "c"
-    },
-    {
-        "titulo": "La motivación se puede medir de tres formas: creando un estímulo o una situación estimular, midiendo el tipo de respuestas que realiza un individuo y a través de la medición…:",
-        "opciones": [
-            { "id": "a", "texto": "del objetivo conseguido" },
-            { "id": "b", "texto": "de la expectativa lograda" },
-            { "id": "c", "texto": "estímulo-respuesta" }
-        ],
-        "correcta": "c"
-    },
-    {
-        "titulo": "¿Qué enfoque de la psicología se ocupa de la dinámica interior inconsciente de fuerzas internas, conflictos y energía de los instintos?:",
-        "opciones": [
-            { "id": "a", "texto": "el enfoque biológico" },
-            { "id": "b", "texto": "el enfoque psicodinámico" },
-            { "id": "c", "texto": "el enfoque humanista" }
-        ],
         "correcta": "b"
     },
     {
-        "titulo": "En psicología se han clasificado los sucesos observables en dos grandes categorías, que son los…:",
+        "titulo": "¿Cuál es la consecuencia o resultado del proceso motivacional?:",
         "opciones": [
-            { "id": "a", "texto": "estímulos y las respuestas" },
-            { "id": "b", "texto": "procesos externos e internos" },
-            { "id": "c", "texto": "procesos conscientes e inconscientes" }
-        ],
-        "correcta": "a"
-    },
-    {
-        "titulo": "¿Qué defienden las teorías evolucionistas en la actualidad en relación al comportamiento humano?:",
-        "opciones": [
-            { "id": "a", "texto": "que algunas conductas motivadas podrían estar genéticamente determinadas" },
-            { "id": "b", "texto": "la importancia primordial del factor aislamiento geográfico para la explicación de las distintas especies" },
-            { "id": "c", "texto": "la interacción mecanicista organismo-ambiente" }
-        ],
-        "correcta": "a"
-    },
-    {
-        "titulo": "¿Qué tipo de enfoque, en el estudio de la motivación, señala que la forma de interpretar la información influye en los estados motivacionales, y que los organismos son conscientes de lo que les ocurre? El enfoque…:",
-        "opciones": [
-            { "id": "a", "texto": "mecanicista" },
-            { "id": "b", "texto": "cognitivo" },
-            { "id": "c", "texto": "nomotético" }
-        ],
-        "correcta": "b"
-    },
-    {
-        "titulo": "Según la teoría de la selección natural, ¿cómo se produce dicha selección?:",
-        "opciones": [
-            { "id": "a", "texto": "por el principio del uso y el desuso de los órganos" },
-            { "id": "b", "texto": "por la modificación de las necesidades de los sujetos" },
-            { "id": "c", "texto": "por la interacción mecánica organismo-ambiente" }
-        ],
-        "correcta": "c"
-    },
-    {
-        "titulo": "Al conjunto sistemático de hechos empíricos que se hallan integrados u ordenados de una manera específica, se le denomina…:",
-        "opciones": [
-            { "id": "a", "texto": "ciencia" },
-            { "id": "b", "texto": "teoría" },
-            { "id": "c", "texto": "conocimiento" }
-        ],
-        "correcta": "a"
-    },
-    {
-        "titulo": "A la consecuencia o resultado del proceso motivacional lo llamamos…:",
-        "opciones": [
-            { "id": "a", "texto": "motivación" },
-            { "id": "b", "texto": "conducta motivada" },
-            { "id": "c", "texto": "motivos" }
-        ],
-        "correcta": "b"
-    },
-    {
-        "titulo": "¿Cómo se denominan las motivaciones centrales que, desde el nacimiento, están funcionalmente relacionadas con la subsistencia del individuo y de la especie?:",
-        "opciones": [
-            { "id": "a", "texto": "motivos primarios" },
-            { "id": "b", "texto": "impulsos motivacionales" },
-            { "id": "c", "texto": "motivos aprendidos" }
-        ],
-        "correcta": "a"
-    },
-    {
-        "titulo": "En el estudio de la motivación, la perspectiva clásica explica los motivos secundarios como…:",
-        "opciones": [
-            { "id": "a", "texto": "consecuencia de un impulso que se genera ante una necesidad" },
-            { "id": "b", "texto": "una fuerza motriz" },
-            { "id": "c", "texto": "metas o motivos en sí mismos, que movilizan al sujeto hacia la acción" }
-        ],
-        "correcta": "a"
-    },
-    {
-        "titulo": "¿En qué paradigma de investigación en el estudio de la motivación, más que manipular variables se busca encontrar las relaciones existentes entre ellas? En el paradigma…:",
-        "opciones": [
-            { "id": "a", "texto": "experimental" },
-            { "id": "b", "texto": "correlacional" },
-            { "id": "c", "texto": "cualitativo" }
-        ],
-        "correcta": "b"
-    },
-    {
-        "titulo": "¿En qué tipo de estudios sobre la motivación sus resultados se pueden generalizar fácilmente a otros entornos similares? En los estudios…:",
-        "opciones": [
-            { "id": "a", "texto": "de laboratorio" },
-            { "id": "b", "texto": "de investigación de campo" },
-            { "id": "c", "texto": "introspectivos" }
-        ],
-        "correcta": "b"
-    },
-    {
-        "titulo": "¿Qué enfoque de la psicología se centra exclusivamente en el estudio de la conducta observable?:",
-        "opciones": [
-            { "id": "a", "texto": "el cognitivo" },
-            { "id": "b", "texto": "el conductista" },
-            { "id": "c", "texto": "el humanista" }
-        ],
-        "correcta": "b"
-    },
-    {
-        "titulo": "A las motivaciones centrales que, después de un proceso de aprendizaje, están relacionadas con el crecimiento general de los sujetos, las llamamos…:",
-        "opciones": [
-            { "id": "a", "texto": "conductas aprendidas" },
-            { "id": "b", "texto": "motivaciones extrínsecas" },
-            { "id": "c", "texto": "motivos secundarios" }
-        ],
-        "correcta": "c"
-    },
-    {
-        "titulo": "¿Cómo se denomina el criterio diferenciador de los motivos primarios que hace referencia a que dichos motivos tienen siempre una base orgánica?:",
-        "opciones": [
-            { "id": "a", "texto": "comparativo-psicológico" },
-            { "id": "b", "texto": "fisiológico" },
-            { "id": "c", "texto": "de supervivencia" }
-        ],
-        "correcta": "b"
-    },
-    {
-        "titulo": "Cuando la motivación es descrita como una predisposición respecto a las tendencias de acción, es llamada…:",
-        "opciones": [
-            { "id": "a", "texto": "estado motivacional" },
-            { "id": "b", "texto": "conducta motivada" },
-            { "id": "c", "texto": "rasgo motivacional" }
-        ],
-        "correcta": "c"
-    },
-    {
-        "titulo": "La finalidad de la psicología de la motivación debe ser explicar cómo y por qué se inicia…:",
-        "opciones": [
-            { "id": "a", "texto": "un proceso adaptativo" },
-            { "id": "b", "texto": "un proceso psicológico básico" },
-            { "id": "c", "texto": "una conducta o acción determinada" }
-        ],
-        "correcta": "c"
-    },
-    {
-        "titulo": "¿Es posible explicar la conducta motivada sólo mediante la activación?:",
-        "opciones": [
-            { "id": "a", "texto": "sí, porque la activación es el aspecto energizante del comportamiento" },
-            { "id": "b", "texto": "no, porque también es necesario que el individuo pueda seleccionar los objetivos hacia donde dirigir sus conductas" },
-            { "id": "c", "texto": "sí, porque la activación es el componente principal y más importante del proceso motivacional" }
-        ],
-        "correcta": "b"
-    },
-    {
-        "titulo": "¿Qué tipo de enfoque supone que los cambios de ciertos factores activan e impulsan al organismo a realizar una determinada conducta, de manera automática sin que el organismo tenga ningún tipo de conciencia o intención? El enfoque…:",
-        "opciones": [
-            { "id": "a", "texto": "mecanicista" },
-            { "id": "b", "texto": "cognitivo" },
-            { "id": "c", "texto": "ideográfico" }
-        ],
-        "correcta": "a"
-    },
-    {
-        "titulo": "Los primeros modelos utilizados en el estudio de la psicología de la motivación se desarrollaron con una orientación…:",
-        "opciones": [
-            { "id": "a", "texto": "cognitiva" },
-            { "id": "b", "texto": "conductual" },
-            { "id": "c", "texto": "biológica" }
-        ],
-        "correcta": "c"
-    },
-    {
-        "titulo": "¿Quién definió la psicología como “la ciencia de la vida mental, de sus fenómenos y de sus condiciones”?:",
-        "opciones": [
-            { "id": "a", "texto": "los psicólogos cognitivos" },
-            { "id": "b", "texto": "los psicólogos conductistas" },
-            { "id": "c", "texto": "William James" }
-        ],
-        "correcta": "c"
-    },
-    {
-        "titulo": "¿Cuáles son los cuatro principales niveles de análisis en el estudio de la motivación?:",
-        "opciones": [
-            { "id": "a", "texto": "psicofísico, conductual, cognitivo y neurológico" },
-            { "id": "b", "texto": "fisiológico, individual, social y filosófico" },
-            { "id": "c", "texto": "experimental, correlacional, cuantitativo y filosófico" }
-        ],
-        "correcta": "b"
-    },
-    {
-        "titulo": "¿Qué paradigma de investigación en el estudio de la motivación pretende, más que manipular variables, encontrar las relaciones existentes entre ellas?:",
-        "opciones": [
-            { "id": "a", "texto": "el paradigma experimental" },
-            { "id": "b", "texto": "el paradigma correlacional" },
-            { "id": "c", "texto": "el paradigma cualitativo" }
-        ],
-        "correcta": "b"
-    },
-    {
-        "titulo": "¿Qué enfoque de la psicología se centra en la tarea de determinar la importancia relativa de los factores genéticos y la experiencia en relación con aspectos específicos de la conducta?:",
-        "opciones": [
-            { "id": "a", "texto": "el enfoque conductista" },
-            { "id": "b", "texto": "el enfoque biológico" },
-            { "id": "c", "texto": "el enfoque evolucionista" }
-        ],
-        "correcta": "c"
-    },
-    {
-        "titulo": "¿Con qué se corresponde el componente subjetivo de la motivación humana?:",
-        "opciones": [
-            { "id": "a", "texto": "con sus necesidades básicas" },
-            { "id": "b", "texto": "con la apetencia por alguna meta o reforzador" },
-            { "id": "c", "texto": "con su necesidad de imitar modelos" }
-        ],
-        "correcta": "b"
-    },
-    {
-        "titulo": "Entre todos los procesos psicológicos existentes, la motivación guarda una relación muy estrecha con el proceso de la…:",
-        "opciones": [
-            { "id": "a", "texto": "emoción" },
-            { "id": "b", "texto": "atención" },
-            { "id": "c", "texto": "percepción" }
-        ],
-        "correcta": "a"
-    },
-    {
-        "titulo": "¿Qué relación existe entre la psicología básica y la psicología aplicada?:",
-        "opciones": [
-            { "id": "a", "texto": "son complementarias" },
-            { "id": "b", "texto": "son incompatibles" },
-            { "id": "c", "texto": "son correlacionadas" }
-        ],
-        "correcta": "a"
-    },
-    {
-        "titulo": "¿Cómo se manifiestan y registran siempre los hechos empíricos que utiliza la ciencia?:",
-        "opciones": [
-            { "id": "a", "texto": "siempre según las leyes de la física" },
-            { "id": "b", "texto": "según la condición experimental de que se trate" },
-            { "id": "c", "texto": "siempre de la misma manera" }
-        ],
-        "correcta": "c"
-    },
-    {
-        "titulo": "¿Qué filósofo griego dijo que la mente es una “tábula rasa” en el momento de nacer, donde se van grabando en una tabla en blanco todos los conocimientos que proporciona la experiencia?:",
-        "opciones": [
-            { "id": "a", "texto": "Platón" },
-            { "id": "b", "texto": "Aristóteles" },
-            { "id": "c", "texto": "Sócrates" }
-        ],
-        "correcta": "b"
-    },
-    {
-        "titulo": "La causación personal…:",
-        "opciones": [
-            { "id": "a", "texto": "es un motivo en sí" },
-            { "id": "b", "texto": "es un principio guía sobre el que se construye el resto de los motivos" },
-            { "id": "c", "texto": "determina la motivación primaria" }
-        ],
-        "correcta": "b"
-    },
-    {
-        "titulo": "La psicología científica se distingue del resto de las psicologías en que éstas no utilizan…:",
-        "opciones": [
-            { "id": "a", "texto": "el sentido común" },
-            { "id": "b", "texto": "un procedimiento de carácter puramente racional" },
-            { "id": "c", "texto": "el método científico" }
-        ],
-        "correcta": "c"
-    },
-    {
-        "titulo": "¿Qué tipo de modelo han adoptado la mayoría de los psicólogos interesados en el estudio de la motivación?:",
-        "opciones": [
-            { "id": "a", "texto": "el modelo E-R" },
-            { "id": "b", "texto": "el modelo E-O-R" },
-            { "id": "c", "texto": "el modelo E-E" }
-        ],
-        "correcta": "b"
-    },
-    {
-        "titulo": "¿En qué paradigma de investigación se enfatiza el estudio de la motivación de una manera más intensa, más descriptiva y con mayor carga interpretativa? En el paradigma…:",
-        "opciones": [
-            { "id": "a", "texto": "experimental" },
-            { "id": "b", "texto": "correlacional" },
-            { "id": "c", "texto": "cualitativo" }
-        ],
-        "correcta": "c"
-    },
-    {
-        "titulo": "¿Qué se entiende con el término causación personal?:",
-        "opciones": [
-            { "id": "a", "texto": "que se establecen causas comunes a las distintas personas para explicar el comportamiento" },
-            { "id": "b", "texto": "que las conductas se inician con la intención de introducir cambios en el ambiente" },
-            { "id": "c", "texto": "que" }
-        ],
-        "correcta": "b"
-    },
-    {
-        "titulo": "Los filósofos ingleses del siglo XVII realizaron dos importantes aportaciones: el estudio de la subjetividad en la experiencia sensorial y el desarrollo del…:",
-        "opciones": [
-            { "id": "a", "texto": "positivismo" },
-            { "id": "b", "texto": "pensamiento asociacionista" },
-            { "id": "c", "texto": "constructivismo" }
-        ],
-        "correcta": "b"
-    },
-    {
-        "titulo": "La psicología es una ciencia porque…:",
-        "opciones": [
-            { "id": "a", "texto": "las conclusiones en las que se basa están de acuerdo con los principios del método científico" },
-            { "id": "b", "texto": "se centra principalmente en las experiencias internas de la conciencia" },
-            { "id": "c", "texto": "realiza un estudio empírico de los fenómenos de la mente" }
-        ],
-        "correcta": "a"
-    },
-    {
-        "titulo": "¿Qué parte de la psicología científica se ocupa de la funcionalidad de la conducta y de los procesos mentales en los distintos ambientes en los que actúan los individuos, tanto de forma individual como colectiva, incluyendo además su dimensión patológica?:",
-        "opciones": [
-            { "id": "a", "texto": "la psicología aplicada" },
-            { "id": "b", "texto": "la psicología básica" },
-            { "id": "c", "texto": "la psicología cognitiva" }
-        ],
-        "correcta": "a"
-    },
-    {
-        "titulo": "¿Cuál es la mejor manera de entender la motivación humana?:",
-        "opciones": [
-            { "id": "a", "texto": "analizar los distintos sistemas que la componen" },
-            { "id": "b", "texto": "comprender todas las situaciones cognitivas en dónde se produce la motivación" },
-            { "id": "c", "texto": "estudiar los componentes biológicos y aprendidos de la motivación humana" }
-        ],
-        "correcta": "a"
-    },
-    {
-        "titulo": "¿Qué corriente filosófica defendió que sólo a través del análisis de lo particular a lo general se podrían establecer leyes generales y universales?:",
-        "opciones": [
-            { "id": "a", "texto": "positivismo" },
-            { "id": "b", "texto": "constructivismo" },
-            { "id": "c", "texto": "asociacionismo" }
-        ],
-        "correcta": "a"
-    },
-    {
-        "titulo": "¿Cuáles son los cuatro posibles niveles de análisis en el estudio de la motivación?:",
-        "opciones": [
-            { "id": "a", "texto": "fisiológico, individual, social y filosófico" },
-            { "id": "b", "texto": "experimental, correlacional, filosófico y cualitativo" },
-            { "id": "c", "texto": "nomotético, ideográfico, cognitivo y mecanicista" }
-        ],
-        "correcta": "a"
-    },
-    {
-        "titulo": "Para el psicoanálisis las motivaciones inconscientes…:",
-        "opciones": [
-            { "id": "a", "texto": "preparan al organismo para la acción" },
-            { "id": "b", "texto": "son determinantes psíquicos fundamentales" }
-        ],
-        "correcta": "b"
-    },
-    {
-        "titulo": "¿Qué enfatiza el paradigma cualitativo?:",
-        "opciones": [
-            { "id": "a", "texto": "encontrar las relaciones existentes entre las distintas variables" },
-            { "id": "b", "texto": "la manipulación de una o más variables y determinar los efectos que pueda tener en otras variables" },
-            { "id": "c", "texto": "el estudio de una manera más intensa, más descriptiva y con mayor carga interpretativa" }
-        ],
-        "correcta": "c"
-    },
-    {
-        "titulo": "¿Qué tipo de estudios sobre la motivación se efectúan en entornos naturales y sin mucho control experimental? Los estudios de…:",
-        "opciones": [
-            { "id": "a", "texto": "laboratorio" },
-            { "id": "b", "texto": "investigación de campo" },
-            { "id": "c", "texto": "investigación funcional" }
-        ],
-        "correcta": "b"
-    },
-    {
-        "titulo": "¿Cómo se considera la motivación desde los distintos posicionamientos teóricos?:",
-        "opciones": [
-            { "id": "a", "texto": "como un rasgo de personalidad" },
-            { "id": "b", "texto": "como una variable extraña que hay que controlar" },
-            { "id": "c", "texto": "como lo determinante para la adquisición de comportamientos por parte del individuo" }
-        ],
-        "correcta": "c"
-    },
-    {
-        "titulo": "Los psicólogos cognitivos definen la “psicología” como…:",
-        "opciones": [
-            { "id": "a", "texto": "la ciencia de la vida mental, de sus fenómenos y de sus condiciones" },
-            { "id": "b", "texto": "la ciencia del comportamiento y de los procesos mentales" },
-            { "id": "c", "texto": "el estudio empírico de los fenómenos de la mente" }
-        ],
-        "correcta": "b"
-    },
-    {
-        "titulo": "La motivación es un proceso adaptativo cuya única finalidad es conseguir…:",
-        "opciones": [
-            { "id": "a", "texto": "los objetivos planteados" },
+            { "id": "a", "texto": "la activación de la conducta" },
             { "id": "b", "texto": "la conducta manifiesta" },
-            { "id": "c", "texto": "la supervivencia" }
+            { "id": "c", "texto": "la conducta motivada" }
         ],
         "correcta": "c"
-    },
-    {
-        "titulo": "Las normas que utiliza la psicología científica implican objetividad,…:",
-        "opciones": [
-            { "id": "a", "texto": "exactitud y seriedad" },
-            { "id": "b", "texto": "seriedad y escepticismo" },
-            { "id": "c", "texto": "exactitud y escepticismo" }
-        ],
-        "correcta": "c"
-    },
-    {
-        "titulo": "¿Cómo se denomina la tendencia a hacer la valoración de los otros en función de sus reacciones ante nosotros?:",
-        "opciones": [
-            { "id": "a", "texto": "singularidad" },
-            { "id": "b", "texto": "personalismo" },
-            { "id": "c", "texto": "relevancia hedónica" }
-        ],
-        "correcta": "b"
-    },
-    {
-        "titulo": "¿Qué enfoque, en el estudio de la motivación, tiene como objetivo entender la conducta motivada examinando en qué se distinguen los individuos de una especie entre sí? El enfoque…:",
-        "opciones": [
-            { "id": "a", "texto": "ideográfico" },
-            { "id": "b", "texto": "cognitivo" },
-            { "id": "c", "texto": "nomotético" }
-        ],
-        "correcta": "a"
-    }    
-    
-        
-    
-
-
+    }   
 ]
-
