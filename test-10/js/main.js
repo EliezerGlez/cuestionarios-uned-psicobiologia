@@ -1,28 +1,21 @@
-let preguntas = []; // Mueve la declaración aquí para que sea global
+let preguntas = [];
 
 function cargarPreguntas() {
     const quizContainer = document.getElementById("quiz");
     quizContainer.innerHTML = ""; // Limpia el contenedor
 
-    fetch('data.xml') // Ajusta la ruta a 'data.xml' ya que está en el mismo nivel que index.html
+    fetch('data.json') // Carga las preguntas desde el archivo JSON
         .then(response => {
             if (!response.ok) {
-                throw new Error('Error al cargar el archivo XML');
+                throw new Error('Error al cargar el archivo JSON');
             }
-            return response.text();
+            return response.json();
         })
         .then(data => {
-            const parser = new DOMParser();
-            const xmlDoc = parser.parseFromString(data, "application/xml");
-            const cuestionarios = xmlDoc.getElementsByTagName("cuestionario");
-
-            preguntas = Array.from(cuestionarios).map(cuestionario => ({
-                titulo: cuestionario.getElementsByTagName("titulo")[0].textContent,
-                opciones: Array.from(cuestionario.getElementsByTagName("opciones")[0].getElementsByTagName("opcion")).map(opcion => ({
-                    texto: opcion.textContent,
-                    id: opcion.getAttribute("id")
-                })),
-                correcta: cuestionario.getElementsByTagName("correcta")[0].textContent
+            preguntas = data.map(pregunta => ({
+                titulo: pregunta.titulo,
+                opciones: pregunta.opciones,
+                correcta: pregunta.correcta
             }));
 
             shuffle(preguntas); // Mezcla las preguntas
@@ -40,7 +33,7 @@ function cargarPreguntas() {
 
                 const opciones = [...pregunta.opciones];
                 shuffle(opciones);
-                
+
                 opciones.forEach(opcion => {
                     const li = document.createElement("li");
                     const input = document.createElement("input");
@@ -63,7 +56,7 @@ function cargarPreguntas() {
             });
         })
         .catch(error => {
-            console.error("Error al cargar el archivo XML:", error);
+            console.error("Error al cargar el archivo JSON:", error);
         });
 }
 

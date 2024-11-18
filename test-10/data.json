@@ -1,0 +1,32 @@
+[
+    {
+        "titulo": "¿Qué procedimiento de contrastación de hipótesis se ha utilizado en este experimento?",
+        "opciones": [
+            { "id": "a", "texto": "Intervención somática" },
+            { "id": "b", "texto": "Intervención conductual" },
+            { "id": "c", "texto": "Intervención ambiental" },
+            { "id": "d", "texto": "Intervención etológica" }
+        ],
+        "correcta": "b"
+    },
+    {
+        "titulo": "¿Qué técnica de imagen cerebral se utilizó en el estudio de Damasio et al. (2000)?",
+        "opciones": [
+            { "id": "a", "texto": "Resonancia magnética funcional (fMRI)" },
+            { "id": "b", "texto": "Tomografía por emisión de positrones (TEP)" },
+            { "id": "c", "texto": "Tomografía computarizada (CT)" },
+            { "id": "d", "texto": "Magnetoencefalografía (MEG)" }
+        ],
+        "correcta": "b"
+    },
+    {
+        "titulo": "¿Qué áreas del cerebro mostraron mayor actividad durante la rememoración de experiencias emotivas en el estudio de Damasio et al.?",
+        "opciones": [
+            { "id": "a", "texto": "Corteza prefrontal y cerebelo" },
+            { "id": "b", "texto": "Corteza somatosensorial, mesencéfalo, hipotálamo y corteza del cíngulo" },
+            { "id": "c", "texto": "Amígdala y lóbulos temporales" },
+            { "id": "d", "texto": "Tálamo y ganglios basales" }
+        ],
+        "correcta": "b"
+    }
+]
